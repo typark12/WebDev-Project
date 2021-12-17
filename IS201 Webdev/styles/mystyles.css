@@ -1,0 +1,13 @@
+body {background-color: rgb(84, 90, 121);}
+h1  {font-size: xx-large;
+    color: rgb(49, 49, 49);}
+h2 {color: black;}
+body {color: burlywood;}
+p {color: rgb(243, 237, 237);}
+li {font-size: large;}
+ul {color: rgb(150, 133, 37);
+    font-size: large;
+    flex-grow: 2x;}
+ol{color: rgb(150, 133, 37)}
+h3{color: rgb(104, 125, 245);}
+p1{color: rgb(104, 125, 245);}
